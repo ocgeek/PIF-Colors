@@ -1,6 +1,25 @@
-# PIF-Accent-Colors
+# PIF Primary Color
+
+PIF prymary color is black (mainly due to stocking constraints)
+
+## eSun ABS+ Black (Matte finish)
+
+![image](https://user-images.githubusercontent.com/76037248/168564428-93f28e95-1160-414f-a0b9-ab74cc8cf8a3.png)
+
+![image](https://user-images.githubusercontent.com/76037248/168564538-d19685c6-ef0a-4f35-87a7-f34fcd9e46a7.png)
+
+![image](https://user-images.githubusercontent.com/76037248/168564640-af638b4e-ff60-4b71-8e13-ca613fe4d57e.png)
+
+## 3D Jake Nice ABS Black (difficult to stock)
+
+![image](https://user-images.githubusercontent.com/76037248/168564973-b4c66d8f-6852-4dbc-8ae2-4c7b5757542f.png)
+
+![image](https://user-images.githubusercontent.com/76037248/168565053-8b7cc842-a2b7-4459-9fc8-7018c70ee045.png)
+
+# PIF Accent Colors
 
 Here are some examples of accent colors which i do normally stock
+Red is the most requested follower by Blue, Green and Yellow or White
 
 ## 3D Jake Nice ABS Red
 
@@ -36,6 +55,7 @@ Here are some examples of accent colors which i do normally stock
 
 ## 3D Jake Nice ABS Light Grey
 
+![image](https://user-images.githubusercontent.com/76037248/168564827-d00b343d-4240-4af5-a9db-0be28f500797.png)
 
 ## eSun ABS+ Pink
 
