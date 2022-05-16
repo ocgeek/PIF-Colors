@@ -55,11 +55,20 @@ Red is the most requested follower by Blue, Green and Yellow or White
 
 ## 3D Jake Nice ABS Grey
 
+![image](https://user-images.githubusercontent.com/76037248/168567057-5bf739c1-f274-4811-8a77-c33fc3a4dace.png)
+
 ## 3D Jake Nice ABS Light Grey
 
 ![image](https://user-images.githubusercontent.com/76037248/168564827-d00b343d-4240-4af5-a9db-0be28f500797.png)
 
+## eSun ABS+ Fire Engine Red
+
+![image](https://user-images.githubusercontent.com/76037248/168566999-465db1cd-87ae-4740-83c2-fd9a3d329517.png)
+
 ## eSun ABS+ Pink
+
+![image](https://user-images.githubusercontent.com/76037248/168566796-3fc121e0-5cbe-445f-bdc9-4ea03536f94a.png)
 
 ## eSun ABS+ Nuclear Green
 
+![image](https://user-images.githubusercontent.com/76037248/168566694-e4761f30-1a11-42e9-bea2-0d25093f5df0.png)
