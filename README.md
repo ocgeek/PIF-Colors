@@ -67,7 +67,7 @@ Red is the most requested follower by Blue, Green and Yellow or White
 
 ## eSun ABS+ Pink
 
-![image](https://user-images.githubusercontent.com/76037248/168566796-3fc121e0-5cbe-445f-bdc9-4ea03536f94a.png)
+![image](https://user-images.githubusercontent.com/76037248/168567186-7ba7d31e-364a-47a2-b66e-7b61992a6278.png)
 
 ## eSun ABS+ Nuclear Green
 
