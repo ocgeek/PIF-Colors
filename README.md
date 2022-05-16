@@ -22,6 +22,7 @@ PIF prymary color is black (mainly due to stocking constraints)
 
 Here are some examples of accent colors which i do normally stock
 Red is the most requested follower by Blue, Green and Yellow or White
+Please note that not all colors could be available at all times 
 
 ## 3D Jake Nice ABS Red
 
