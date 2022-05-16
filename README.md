@@ -10,7 +10,8 @@ PIF prymary color is black (mainly due to stocking constraints)
 
 ![image](https://user-images.githubusercontent.com/76037248/168564640-af638b4e-ff60-4b71-8e13-ca613fe4d57e.png)
 
-## 3D Jake Nice ABS Black (difficult to stock as not always available)
+## 3D Jake Nice ABS Black (Satin Finish)
+This filament is a bit difficult to stock as there are times when it is not available
 
 ![image](https://user-images.githubusercontent.com/76037248/168564973-b4c66d8f-6852-4dbc-8ae2-4c7b5757542f.png)
 
