@@ -67,6 +67,12 @@ Please note that not all colors could be available at all times
 
 ![image](https://user-images.githubusercontent.com/76037248/168566999-465db1cd-87ae-4740-83c2-fd9a3d329517.png)
 
+## eSun ABS+ Purple
+
+![IMG_20220602_073223](https://user-images.githubusercontent.com/76037248/171677647-c7578f14-95fe-45bd-95a1-560f0217827e.jpg)
+
+![IMG_20220602_080804](https://user-images.githubusercontent.com/76037248/171677712-18bebd99-0ccd-4f25-a405-f6416151b781.jpg)
+
 ## eSun ABS+ Pink
 
 ![image](https://user-images.githubusercontent.com/76037248/168567186-7ba7d31e-364a-47a2-b66e-7b61992a6278.png)
