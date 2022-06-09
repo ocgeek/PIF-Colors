@@ -55,13 +55,17 @@ Please note that not all colors could be available at all times
 
 ![image](https://user-images.githubusercontent.com/76037248/168563160-e0fafd3d-55c7-4c34-918a-d6d5fc70df0d.png)
 
-## 3D Jake Nice ABS Grey
-
-![image](https://user-images.githubusercontent.com/76037248/168567057-5bf739c1-f274-4811-8a77-c33fc3a4dace.png)
-
 ## 3D Jake Nice ABS Light Grey
 
 ![image](https://user-images.githubusercontent.com/76037248/168564827-d00b343d-4240-4af5-a9db-0be28f500797.png)
+
+## 3D Jake Nice ABS Silver
+
+![image](https://user-images.githubusercontent.com/76037248/172926002-cbace28d-96c9-466b-9cba-6e336378d386.png)
+
+## 3D Jake Nice ABS Dark Grey
+
+![image](https://user-images.githubusercontent.com/76037248/172925849-ff1f0701-48b4-4216-87a4-f0dfe093658a.png)
 
 ## eSun ABS+ Fire Engine Red
 
