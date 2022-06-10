@@ -75,7 +75,7 @@ Please note that not all colors could be available at all times
 
 ![IMG_20220602_073223](https://user-images.githubusercontent.com/76037248/171677647-c7578f14-95fe-45bd-95a1-560f0217827e.jpg)
 
-![IMG_20220602_080804](https://user-images.githubusercontent.com/76037248/171677712-18bebd99-0ccd-4f25-a405-f6416151b781.jpg)
+![image](https://user-images.githubusercontent.com/76037248/173118116-3dec991c-7422-4bd2-b472-83ec14b5ef5b.png)
 
 ## eSun ABS+ Pink
 
