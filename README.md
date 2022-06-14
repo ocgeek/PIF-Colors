@@ -79,7 +79,9 @@ Please note that not all colors could be available at all times
 
 ## eSun ABS+ Pink
 
-![image](https://user-images.githubusercontent.com/76037248/168567186-7ba7d31e-364a-47a2-b66e-7b61992a6278.png)
+![image](https://user-images.githubusercontent.com/76037248/173528114-44911305-6fb4-4145-b17d-d62acbf78d36.png)
+
+![image](https://user-images.githubusercontent.com/76037248/173528171-1fcf5337-0bb4-418c-96bd-98f5cbe94a97.png)
 
 ## eSun ABS+ Nuclear Green
 
